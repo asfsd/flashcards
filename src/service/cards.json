@@ -1,0 +1,31 @@
+{
+  "cards": [
+    {
+      "id": 0,
+      "question": "Hover on me to know more!!!",
+      "answer": "Am a flashcard"
+    },
+    {
+      "id": 1,
+      "question": "what is this challange",
+      "answer": "itys front end challange"
+    },
+    {
+      "id": 2,
+      "question": "Is it a react app?",
+      "answer": "Yes !!! it is a react app"
+    },
+    {
+      "id": 3,
+      "question": "Where are styles?",
+      "answer": "yes style are in index.css"
+    },
+
+    {
+      "id": 4,
+      "question": "Do u use redux and bootstrap",
+      "answer": "no redux and bootstrap are used"
+    }
+   
+  ]
+}
